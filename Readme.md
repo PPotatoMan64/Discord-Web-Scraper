@@ -57,6 +57,10 @@ Set your bot token (Replace "TOKEN_HERE" in the Python file with your actual Dis
 
 Run the bot (Scraper.py)
 
+If everything was done correctly it should look like this:
+
+
+
 ## 🔍 How It Works
 
 1. Discord Bot Framework
