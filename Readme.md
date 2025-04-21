@@ -22,15 +22,25 @@ All queries are saved to a local log file for record-keeping, tracking, or colla
 ## ⚒️ Commands Overview
 
 !search <query>         → DuckDuckGo web search
+
 !deepsearch <query>     → Extended web search (with more results)
+
 !image <query>          → Pulls image results
+
 !news <query>           → Fetches news articles
+
 !youtube <query>        → Gets YouTube video links
+
 !wayback <url>          → Archive.org snapshot fetcher
+
 !logs                   → Shows logged search queries
+
 !ping                   → Measures bot latency
+
 !uptime                 → Bot runtime since launch
+
 !version                → Displays current version
+
 !help                   → Lists all commands
 
 ## 📦 Installation
