@@ -1,4 +1,4 @@
-#🕵️ Media Scraper
+#### Hi there 👋 🕵️ Media Scraper
 Media Scraper is a robust, multipurpose Discord bot built specifically for lost media research, digital preservation, and internet sleuthing. Designed for researchers, enthusiasts, and archivists, the bot provides streamlined access to a suite of investigative tools — all within a Discord server.
 
 With a single command, Media Scraper can search the web, fetch images, explore archived websites, and retrieve media or metadata from various sources, making it an essential companion for lost media communities, research groups, or anyone digging into the depths of the web.
