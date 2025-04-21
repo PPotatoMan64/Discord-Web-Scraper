@@ -4,6 +4,8 @@ With a single command, Media Scraper can search the web, fetch images, explore a
 
 [Latest](https://github.com/PPotatoMan64/Media-Scraper/releases)
 
+[Discord](https://discord.gg/YUyCwRyUcU)
+
 ## 🌐 Core Features
 
 ### 🔍 Web Search
