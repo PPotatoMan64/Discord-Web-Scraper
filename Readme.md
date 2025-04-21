@@ -2,13 +2,14 @@
 
 ![screenshot](Example2.png)
 
-![screenshot](Example3.png)
  
 With a single command, Media Scraper can search the web, fetch images, explore archived websites, and retrieve media or metadata from various sources, making it an essential companion for lost media communities, research groups, or anyone digging into the depths of the web.
 
 [Latest](https://github.com/PPotatoMan64/Media-Scraper/releases) - Latest Files Here
 
 [Discord](https://discord.gg/YUyCwRyUcU) - For Extra Help / Community
+
+![screenshot](Example3.png)
 
 ## 🌐 Core Features
 
@@ -26,6 +27,8 @@ Quickly lookup and preview archived pages from the Internet Archive (Wayback Mac
 
 ### 📜 Logging System
 All queries are saved to a local log file for record-keeping, tracking, or collaborative research. You’ll never lose a good lead again.
+
+![screenshot](Example3.png)
 
 ## ⚒️ Commands Overview
 
@@ -51,6 +54,8 @@ All queries are saved to a local log file for record-keeping, tracking, or colla
 
 !help                   → Lists all commands
 
+![screenshot](Example3.png)
+
 ## 📦 Installation
 
 Clone the repository [Latest](https://github.com/PPotatoMan64/Media-Scraper/releases)
@@ -64,6 +69,8 @@ Run the bot (Scraper.py)
 If everything was done correctly it should look like this:
 
 ![screenshot](Example.png)
+
+![screenshot](Example3.png)
 
 ## 🔍 How It Works
 
@@ -82,6 +89,10 @@ Search inputs and query results are logged to local text files (logs/ directory)
 5. Fail-Safes & Timeouts
 The bot has timeout handling and error catching for search failures, unreachable APIs, and Discord rate limits to ensure smooth operation even during heavy use.
 
+![screenshot](Example3.png)
+
 ## 📄 License
 This project is open source under the MIT License.
+
+![screenshot](Example3.png)
 
