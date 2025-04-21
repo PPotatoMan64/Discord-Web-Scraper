@@ -1,6 +1,6 @@
 Scrapes the internet for a desired query, and uses a discord bot for ease of use.
 
-
+# Web Scraper
 
 
 How to use:
