@@ -70,6 +70,6 @@ Search inputs and query results are logged to local text files (logs/ directory)
 5. Fail-Safes & Timeouts
 The bot has timeout handling and error catching for search failures, unreachable APIs, and Discord rate limits to ensure smooth operation even during heavy use.
 
-📄 License
+##📄 License
 This project is open source under the MIT License.
 
