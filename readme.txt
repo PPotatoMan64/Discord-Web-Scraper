@@ -20,6 +20,7 @@ Quickly lookup and preview archived pages from the Internet Archive (Wayback Mac
 All queries are saved to a local log file for record-keeping, tracking, or collaborative research. You’ll never lose a good lead again.
 
 # ⚒️ Commands Overview
+```yaml
 !search <query>         → DuckDuckGo web search
 !deepsearch <query>     → Extended web search (with more results)
 !image <query>          → Pulls image results
@@ -31,6 +32,7 @@ All queries are saved to a local log file for record-keeping, tracking, or colla
 !uptime                 → Bot runtime since launch
 !version                → Displays current version
 !help                   → Lists all commands
+```
 
 # 📦 Installation
 1.  Clone the repository
