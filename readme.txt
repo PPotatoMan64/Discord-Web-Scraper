@@ -1,4 +1,4 @@
-# 🕵️ Media Scraper
+#  🕵️ Media Scraper
 Media Scraper is a robust, multipurpose Discord bot built specifically for lost media research, digital preservation, and internet sleuthing. Designed for researchers, enthusiasts, and archivists, the bot provides streamlined access to a suite of investigative tools — all within a Discord server.
 
 With a single command, Media Scraper can search the web, fetch images, explore archived websites, and retrieve media or metadata from various sources, making it an essential companion for lost media communities, research groups, or anyone digging into the depths of the web.
@@ -20,45 +20,28 @@ Quickly lookup and preview archived pages from the Internet Archive (Wayback Mac
 All queries are saved to a local log file for record-keeping, tracking, or collaborative research. You’ll never lose a good lead again.
 
 # ⚒️ Commands Overview
-bash
-Copy
-Edit
-/search <query>         → DuckDuckGo web search
-/deepsearch <query>     → Extended web search (with more results)
-/image <query>          → Pulls image results
-/news <query>           → Fetches news articles
-/youtube <query>        → Gets YouTube video links
-/wayback <url>          → Archive.org snapshot fetcher
-/logs                   → Shows logged search queries
-/ping                   → Measures bot latency
-/uptime                 → Bot runtime since launch
-/version                → Displays current version
-/help                   → Lists all commands
+!search <query>         → DuckDuckGo web search
+!deepsearch <query>     → Extended web search (with more results)
+!image <query>          → Pulls image results
+!news <query>           → Fetches news articles
+!youtube <query>        → Gets YouTube video links
+!wayback <url>          → Archive.org snapshot fetcher
+!logs                   → Shows logged search queries
+!ping                   → Measures bot latency
+!uptime                 → Bot runtime since launch
+!version                → Displays current version
+!help                   → Lists all commands
 
 # 📦 Installation
-Clone the repository
+1.  Clone the repository
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/media-scraper.git
-cd media-scraper
-Install the dependencies
+1.  pip install -r requirements.txt (py -m pip install requirements.txt)
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Set your bot token
+3.  Set your bot token
 
-Replace "TOKEN_HERE" in the Python file with your actual Discord bot token or set it via environment variable.
+4.  Replace "TOKEN_HERE" in the Python file with your actual Discord bot token or set it via environment variable.
 
-Run the bot
-
-bash
-Copy
-Edit
-python bot.py
+5.  Run the bot ( Scraper.py )
 
 # 🔍 How It Works
 1. Discord Bot Framework
