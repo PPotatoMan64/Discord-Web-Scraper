@@ -59,7 +59,7 @@ Run the bot (Scraper.py)
 
 If everything was done correctly it should look like this:
 
-![screenshot](blob/main/Example.png)
+![screenshot](Example.png)
 
 ## 🔍 How It Works
 
