@@ -49,7 +49,7 @@ All queries are saved to a local log file for record-keeping, tracking, or colla
 
 ## 📦 Installation
 
-Clone the repository
+Clone the repository [Latest](https://github.com/PPotatoMan64/Media-Scraper/releases)
 
 Install the dependencies (pip install -r requirements.txt)
 
